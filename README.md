@@ -1,5 +1,6 @@
 
 ![alt text](https://raw.githubusercontent.com/ksmola/moki/master/src/moki_sm.png "moki")
+
 modern day alarm solution
 ------
 
